@@ -17,4 +17,11 @@ This app includes:
 - Hover effects and smooth transitions
 - Sample data with 4 restaurants  
 
+### Home Page:
+![image alt](https://github.com/KhanSameer1704/Zomato-Clone/blob/09b919ef9c656c3221c7695f8f9a11b47d93304a/src/assets/1.JPG)
 
+### Restaurant Page:
+![image alt](https://github.com/KhanSameer1704/Zomato-Clone/blob/09b919ef9c656c3221c7695f8f9a11b47d93304a/src/assets/2.JPG)
+
+### Cart Section:
+![image alt](https://github.com/KhanSameer1704/Zomato-Clone/blob/09b919ef9c656c3221c7695f8f9a11b47d93304a/src/assets/3.JPG)
