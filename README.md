@@ -18,4 +18,3 @@ This app includes:
 - Sample data with 4 restaurants  
 
 
-
