@@ -1,6 +1,6 @@
 # Zomato-Clone
 
-[Deployed URL]()
+[Deployed URL](https://zomato-clone-2tigdl6jx-khansameer1704s-projects.vercel.app/)
 
 I've created a basic Zomato clone with the following features:
    
